@@ -1,10 +1,7 @@
 <svg width="160" height="30" viewBox="0 0 160 30" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="160" height="30" fill="url(#pattern0_977_633)" filter="url(#recolor)"/>
+<rect width="160" height="30" fill="#0030C5"/>
+<rect width="160" height="30" fill="url(#pattern0_977_633)"/>
 <defs>
-<filter id="recolor">
-  <feFlood flood-color="#0030C5" result="color"/>
-  <feComposite in="color" in2="SourceGraphic" operator="in"/>
-</filter>
 <pattern id="pattern0_977_633" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_977_633" transform="matrix(0.00119625 0 0 0.00633801 -0.284768 -0.000702408)"/>
 </pattern>
