@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/connectsapowerbi/.github/main/profile/logo_colorida.png" width="480" alt="Connect Informações e Tecnologia SA"/>
+<img src="https://raw.githubusercontent.com/connectsapowerbi/.github/main/profile/logo_colorida.png" width="200" alt="Connect Informações e Tecnologia SA"/>
 
 # Connect Informações e Tecnologia SA
 
