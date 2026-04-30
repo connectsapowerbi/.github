@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.svg" width="320" alt="Connect Informações e Tecnologia SA"/>
+<img src="logo-final.png" width="480" alt="Connect Informações e Tecnologia SA"/>
 
 # Connect Informações e Tecnologia SA
 
