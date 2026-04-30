@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="logo.svg" width="320" alt="Connect Informações e Tecnologia SA"/>
 
-  # Connect Informações e Tecnologia SA
+<img src="logo.svg" width="320" alt="Connect Informações e Tecnologia SA"/>
 
-  **Business Intelligence & Analytics**
+# Connect Informações e Tecnologia SA
 
-  Desenvolvimento e governança de dashboards Power BI para apoio à decisão estratégica e operacional.
+**Business Intelligence & Analytics**
 
-  [![BI Explorer](https://img.shields.io/badge/BI%20Explorer-Acessar%20Dashboards-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)](https://connectsa-dashboard.reportload.com/)
+Desenvolvimento e governança de dashboards Power BI para apoio à decisão estratégica e operacional.
+
+[![Governança](https://img.shields.io/badge/Guia_de_Governança-0030C5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/connectsapowerbi/pbip-tools/blob/main/docs/governanca-dashboards.md)
+[![Referência](https://img.shields.io/badge/Referência_Rápida-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/connectsapowerbi/pbip-tools/blob/main/docs/QUICK_REFERENCE.md)
 
 </div>
 
@@ -26,18 +28,11 @@
 
 ---
 
-## Links Úteis
-
-- [BI Explorer](https://connectsa-dashboard.reportload.com/) — portal de dashboards publicados para consulta e análise
-- [Guia de Governança](https://github.com/connectsapowerbi/pbip-tools/blob/main/docs/governanca-dashboards.md) — fluxo de criação, publicação e padrões de desenvolvimento
-- [Referência Rápida](https://github.com/connectsapowerbi/pbip-tools/blob/main/docs/QUICK_REFERENCE.md) — consulta rápida de padrões, comandos e convenções
-
----
-
 <div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0030C5?style=flat&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 </div>
