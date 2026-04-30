@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/connectsapowerbi.png" width="110" alt="Connect Informações e Tecnologia SA"/>
+  <img src="logo.svg" width="320" alt="Connect Informações e Tecnologia SA"/>
 
   # Connect Informações e Tecnologia SA
 
