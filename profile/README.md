@@ -19,11 +19,11 @@ Desenvolvimento e governança de dashboards Power BI para apoio à decisão estr
 
 | Repositório | Área | Dashboards |
 |-------------|------|------------|
-| [Analitico](https://github.com/connectsapowerbi/analitico) | Comercial | Vendas, Faturamento, Performance, Cobrança, Software House |
-| [Campanhas](https://github.com/connectsapowerbi/campanhas) | Gestão de Produtos Serasa | Campanhas comerciais e promocionais |
-| [CentraldeRelacionamento](https://github.com/connectsapowerbi/central-de-relacionamento) | Central de Relacionamento | Relacionamento, consumo, suspensão e queda de consumo |
-| [Executivo](https://github.com/connectsapowerbi/executivo) | Diretoria | KPIs estratégicos e metas para alta gestão |
-| [Produtos](https://github.com/connectsapowerbi/produtos) | Comercial | Consulta Localiza, Consulta Veicular, Features, PEFIN, Saúde do Negócio |
+| [analitico](https://github.com/connectsapowerbi/analitico) | Comercial | Vendas, Faturamento, Performance, Cobrança, Software House |
+| [campanhas](https://github.com/connectsapowerbi/campanhas) | Gestão de Produtos Serasa | Campanhas comerciais e promocionais |
+| [central-de-relacionamento](https://github.com/connectsapowerbi/central-de-relacionamento) | Central de Relacionamento | Relacionamento, consumo, suspensão e queda de consumo |
+| [executivo](https://github.com/connectsapowerbi/executivo) | Diretoria | KPIs estratégicos e metas para alta gestão |
+| [produtos](https://github.com/connectsapowerbi/produtos) | Comercial | Consulta Localiza, Consulta Veicular, Features, PEFIN, Saúde do Negócio |
 | [pbip-tools](https://github.com/connectsapowerbi/pbip-tools) | Ferramentas | Scripts, padrões técnicos e documentação PBIP |
 
 ---
