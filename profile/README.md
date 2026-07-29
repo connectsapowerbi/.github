@@ -59,11 +59,11 @@ flowchart LR
     WSP <-->|Git Integration| RP
     LH <-->|Git Integration| RL
 
-    RT -. padrões · CI/CD · docs .-> RA
-    RT -. padrões · CI/CD · docs .-> RC
-    RT -. padrões · CI/CD · docs .-> RR
-    RT -. padrões · CI/CD · docs .-> RE
-    RT -. padrões · CI/CD · docs .-> RP
+    RT -.->|padroes, CI/CD, docs| RA
+    RT -.->|padroes, CI/CD, docs| RC
+    RT -.->|padroes, CI/CD, docs| RR
+    RT -.->|padroes, CI/CD, docs| RE
+    RT -.->|padroes, CI/CD, docs| RP
 
     style RT fill:#0030C5,color:#ffffff,stroke:#0030C5
     style LH fill:#EFF3FD,color:#0030C5,stroke:#0030C5
