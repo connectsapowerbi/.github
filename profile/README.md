@@ -13,10 +13,10 @@ Desenvolvimento e governança de dashboards Power BI para apoio à decisão estr
 
 <br/>
 
-![Dashboards](https://img.shields.io/badge/Dashboards-36-0030C5?style=flat-square)
+![Dashboards](https://img.shields.io/badge/Dashboards-45-0030C5?style=flat-square)
 ![Áreas](https://img.shields.io/badge/Áreas_de_Negócio-5-31C5FE?style=flat-square)
-![Páginas](https://img.shields.io/badge/Páginas-242-10E99D?style=flat-square)
-![Visuais](https://img.shields.io/badge/Visuais-1.991-0030C5?style=flat-square)
+![Páginas](https://img.shields.io/badge/Páginas-288-10E99D?style=flat-square)
+![Visuais](https://img.shields.io/badge/Visuais-2.357-0030C5?style=flat-square)
 
 </div>
 
@@ -79,8 +79,8 @@ deploy via GitHub Actions para o workspace Fabric da área (`dev` → `hml` →
 
 | Repositório | Área | Camada | Dashboards |
 |-------------|------|--------|:----------:|
-| [**analitico**](https://github.com/connectsapowerbi/analitico) | Comercial | Report + Semantic Model | 8 |
-| [**campanhas**](https://github.com/connectsapowerbi/campanhas) | Gestão de Produtos Serasa | Report + Semantic Model | 14 |
+| [**analitico**](https://github.com/connectsapowerbi/analitico) | Comercial | Report + Semantic Model | 11 |
+| [**campanhas**](https://github.com/connectsapowerbi/campanhas) | Gestão de Produtos Serasa | Report + Semantic Model | 20 |
 | [**central-de-relacionamento**](https://github.com/connectsapowerbi/central-de-relacionamento) | Central de Relacionamento | Report + Semantic Model | 2 |
 | [**executivo**](https://github.com/connectsapowerbi/executivo) | Diretoria | Report + Semantic Model | 6 |
 | [**produtos**](https://github.com/connectsapowerbi/produtos) | Comercial | Report + Semantic Model | 6 |
